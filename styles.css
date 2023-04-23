@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: rgb(220, 205, 205);
+    font-size: 100px;
+    text-align: center;
+}       
+.img1{
+    padding: 0%;
+}
+
+#identfy1{
+    background-color: rgb(138, 119, 119);
+}
+
+li a{
+    text-align: right;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+li a:hover{
+    font-size: 16,6px;
+    color: blue;
+}
+li{
+    padding: 20px;
+    display: inline-block;
+}
+
+/*Aqui se refere aos links de cabeçalho*/
+.link1 a{
+    padding: 0px;
+}
+
+.link2 a{
+    padding: 0px;
+}
+
+.link3 a{
+    padding: 0px;
+}
+
+.link4 a{
+    padding: 0px;
+}
+
+/*Aqui se refere aos blocos da venda do carro*/
+.p1{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+.p2{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+.p3{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+.p4{
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+
+/*container dos carros*/
+.container2{
+    background-color: rgb(220, 205, 205);
+    text-align: center;
+    padding: 0%;
+}
+
+/* bloco de carros */
+/* carros 1 */
+.carr1{
+    padding: 10px;
+    margin: 20px;
+}
+.comprar1{
+    padding: 10px;
+    background-color: rgb(220, 205, 205);
+}
+.comprar1:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+.car1:hover{
+    border: 8px solid white;
+}
+
+/* carro 2*/
+.carr2{
+    padding: 10px;
+    margin: 20px;
+}
+.comprar2{
+    padding: 10px;
+    background-color: rgb(220, 205, 205);
+}
+.comprar2:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+
+.car2:hover{
+    border: 8px solid white;
+}
+
+/* carros 3 */
+.carr3{
+    padding: 10px;
+    margin: 20px;
+}
+.comprar3{
+    padding: 10px;
+    background-color: rgb(220, 205, 205);
+}
+.comprar3:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+
+.car3:hover{
+    border: 8px solid white;
+}
+
+/* carros 4 */
+.carr4{
+    padding: 10px;
+    margin: 20px;
+}
+.comprar4{
+    padding: 10px;
+    background-color: rgb(220, 205, 205);
+}
+.comprar4:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+
+.car4:hover{
+    border: 8px solid white;
+}
+footer{
+    text-align: center;
+    background-color: rgb(220, 205, 205);
+}
